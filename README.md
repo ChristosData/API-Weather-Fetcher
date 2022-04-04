@@ -4,9 +4,9 @@ Fetching latest weather information through an API in python
 Libraries used:
 - Requests<br>
 - datetime<br>
-<br>
+
 # Steps to fetch the data:
-<br>
+
 ### - Endpoint URL where we're sending the request to
 ### - Query paramters
 ### - Look for the data associated with the city that the user types in

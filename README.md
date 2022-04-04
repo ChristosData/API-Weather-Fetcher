@@ -5,9 +5,9 @@ Libraries used:
 - Requests<br>
 - datetime<br>
 
-# Endpoint URL where we're sending the request to
-# Query paramters
-# Look for the data associated with the city that the user types in
-# GET request to retrieve data from the request URL
-# Converting UNIX timestamp to datetime for sunrise / sunset
-# Print values
+### Endpoint URL where we're sending the request to
+### Query paramters
+### Look for the data associated with the city that the user types in
+### GET request to retrieve data from the request URL
+### Converting UNIX timestamp to datetime for sunrise / sunset
+### Print values

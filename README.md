@@ -13,6 +13,3 @@ Libraries used:
 - GET request to retrieve data from the request URL
 - Converting UNIX timestamp to datetime for sunrise / sunset
 - Print values
-
-![alt text] (https://github.com/ChristosData/API-Weather-Fetcher/blob/main/1.%20Run.png) <br>
-![alt text] (https://github.com/ChristosData/API-Weather-Fetcher/blob/main/2.%20Execute-City.png)

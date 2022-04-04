@@ -5,7 +5,7 @@ Libraries used:
 - Requests<br>
 - datetime<br>
 <br>
-#Steps to fetch the data:
+# Steps to fetch the data:
 <br>
 ### - Endpoint URL where we're sending the request to
 ### - Query paramters

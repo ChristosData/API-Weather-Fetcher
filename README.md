@@ -14,5 +14,5 @@ Libraries used:
 - Converting UNIX timestamp to datetime for sunrise / sunset
 - Print values
 
-https://github.com/ChristosData/API-Weather-Fetcher/blob/main/1.%20Run.png
-https://github.com/ChristosData/API-Weather-Fetcher/blob/main/2.%20Execute-City.png
+![alt text] (https://github.com/ChristosData/API-Weather-Fetcher/blob/main/1.%20Run.png) <br>
+![alt text] (https://github.com/ChristosData/API-Weather-Fetcher/blob/main/2.%20Execute-City.png)
